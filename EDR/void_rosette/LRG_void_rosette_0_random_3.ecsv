@@ -1,0 +1,8 @@
+# %ECSV 1.0
+# ---
+# datatype:
+# - {name: TARGETID, datatype: int64}
+# - {name: TARGETID_void, datatype: int64}
+# schema: astropy-2.0
+TARGETID TARGETID_void
+39627829549205651 327858223820309130

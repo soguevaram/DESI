@@ -1,0 +1,7 @@
+# %ECSV 1.0
+# ---
+# datatype:
+# - {name: TARGETID, datatype: float64}
+# - {name: TARGETID_void, datatype: float64}
+# schema: astropy-2.0
+TARGETID TARGETID_void
